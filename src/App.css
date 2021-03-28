@@ -1,0 +1,30 @@
+
+
+.InputFieldStyle {
+  text-align: center;
+  border-bottom: 2px solid black; 
+  padding: 50px
+}
+
+
+.VideoTableStyle {
+  padding: 50px;
+  text-align: center;
+  border-bottom: 2px solid black; 
+}
+
+.VideoTableHeaderRowStyle {
+  font-weight: bold;
+}
+
+.VideoTableStyle table {
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.VideoTableStyle td {
+  border-width: 1px;
+  border-color: black;
+  border-style: solid;
+}
